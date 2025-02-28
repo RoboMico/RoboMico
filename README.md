@@ -12,12 +12,13 @@ Hi there!! 👋
 - [Make videos](https://space.bilibili.com/40201225)
 - [Make music](https://memset0x3f.bandcamp.com/)
 - [Enjoy robot arts on twitter](https://twitter.com/robomico)
-- Play Minecraft
-- Play rhythm games (following data updated in 2025.2)
-  - Phigros - rks 16.14
-  - Paradigm: Reboot - rating 159.2
-  - [osu!mania(4k)](https://osu.ppy.sh/users/16158931) - rank 82k (not frequently playing)
-  - ~~Arcaea - ptt 11.41~~ (officially quitted)
+- Play [Minecraft](https://namemc.com/profile/RoboMico.1)
+- Play rhythm games
+  - Phigros
+  - Paradigm: Reboot
+  - Cytus II
+  - [osu!mania(4k)](https://osu.ppy.sh/users/16158931) (not frequently playing)
+  - ~~Arcaea~~ (officially quitted)
 
 ## Culture or something else
 
