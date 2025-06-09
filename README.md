@@ -16,7 +16,6 @@ Hi there!! 👋
 - Play rhythm games
   - Phigros
   - Paradigm: Reboot
-  - Cytus II
   - [osu!mania(4k)](https://osu.ppy.sh/users/16158931) (not frequently playing)
   - ~~Arcaea~~ (officially quitted)
 
@@ -24,5 +23,5 @@ Hi there!! 👋
 
 - Language: 中文(native), English(ok for basic text conversation)
 - Living in: Jiangxi, China
-- Senior grade in high school
+- Incoming college student
 - If you want to know more please visit [my website](https://robomico.cn/)
