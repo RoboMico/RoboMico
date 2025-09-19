@@ -17,9 +17,8 @@ Hi there!! 👋
   - Paradigm: Reboot
   - [osu!mania(4k)](https://osu.ppy.sh/users/16158931) (not frequently playing)
 
-## Culture or something else
+## Something else
 
 - Language: 中文(native), English(ok for basic text conversation)
-- Living in: Jiangxi, China
-- Incoming college student @ DLUT
+- Undergraduate [@DLUT](https://www.dlut.edu.cn/), majoring Software Engineering
 - If you want to know more please visit [my website](https://robomico.cn/)
